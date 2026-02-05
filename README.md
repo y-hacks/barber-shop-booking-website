@@ -361,7 +361,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Elite Cuts Barbershop
+Copyright (c) 2026 Elite Cuts Barbershop by Brian Ndung'u
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -389,17 +389,14 @@ copies or substantial portions of the Software.
 
 **Elite Cuts Premium Barbershop**
 
-- 📍 **Location**: Kimathi Street, Nairobi CBD, Kenya
-- 📞 **Phone**: +254 712 345 678
-- 📧 **Email**: info@elitecuts.co.ke
-- 🌐 **Website**: [elitecuts.co.ke](https://elitecuts.co.ke)
+- 📍 **Location**: we can change to your barbers location
+- 📞 **Phone**: your contacts
+- 📧 **Email**:eg. info@elitecuts.co.ke
+- 🌐 **Website**: your website
 
 ### Social Media
 
-- [Facebook](https://facebook.com/elitecuts)
-- [Instagram](https://instagram.com/elitecuts)
-- [Twitter](https://twitter.com/elitecuts)
-- [TikTok](https://tiktok.com/@elitecuts)
+- have your social media updated
 
 ---
 
